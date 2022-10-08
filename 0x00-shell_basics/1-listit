@@ -1,2 +1,50 @@
 #!/bin/bash
-echo "ls -l"
+10-back
+Create 10-back
+yesterday
+100-lets_move
+Create 100-lets_move
+18 hours ago
+101-clean_emacs
+Create 101-clean_emacs
+18 hours ago
+102-tree
+tree
+18 hours ago
+103-commas
+Create 103-commas
+18 hours ago
+11-lists
+Create 11-lists
+yesterday
+12-file_type
+Create 12-file_type
+yesterday
+13-symbolic_link
+Create 13-symbolic_link
+yesterday
+14-copy_html
+Create 14-copy_html
+yesterday
+2-bring_me_home
+Update 2-bring_me_home
+yesterday
+3-listfiles
+Update 3-listfiles
+yesterday
+4-listmorefiles
+Update 4-listmorefiles
+yesterday
+5-listfilesdigitonly
+Create 5-listfilesdigitonly
+yesterday
+6-firstdirectory
+Create 6-firstdirectory
+yesterday
+7-movethatfile
+Create 7-movethatfile
+yesterday
+8-firstdelete
+Create 8-firstdelete
+yesterday
+9-firstdirdeletion
