@@ -1,2 +1,2 @@
 #!/bin/bash
-ls /boot -a -l .. $(which bash)
+ls -a .. $(which bash) /boot -l
