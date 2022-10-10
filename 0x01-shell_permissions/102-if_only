@@ -1,2 +1,2 @@
 #!/bin/bash
-vag
+chown -R --from=guillaume betty hello
