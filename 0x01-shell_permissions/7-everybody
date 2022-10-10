@@ -1,2 +1,2 @@
 #!/bin/bash
-usbcbdc
+chmod ugo+x hello
