@@ -1,2 +1,2 @@
 #!/bin/bash
-bdbdb
+chown vincent:staff *
