@@ -1,2 +1,2 @@
 #!/bin/bash
-ddvdv
+chmod 753 hello
